@@ -44,11 +44,7 @@ The target variable is `Loan_Status` — predicting whether a loan will be **App
    - Insights into key factors influencing loan approval
 
 3. **Model Building**
-   - Trained using various ML models including:
-     - Logistic Regression
-     - Decision Tree
-     - Random Forest
-     - Support Vector Machine (SVM)
+   - Trained Random Forest Model
    - Evaluated using metrics such as:
      - Accuracy
      - Precision, Recall
