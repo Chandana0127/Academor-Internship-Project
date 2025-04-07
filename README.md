@@ -63,10 +63,6 @@ The target variable is `Loan_Status` — predicting whether a loan will be **App
 - Gained hands-on experience with classification techniques.
 - Learned to handle real-world datasets with missing and categorical data.
 
-## 📁 Folder Structure
-
-Loan-Prediction-Project/ │ ├── data/ # Contains the dataset (if publicly shareable) ├── notebooks/ # Jupyter notebooks used during development ├── src/ # Python scripts for preprocessing and modeling ├── visuals/ # EDA visualizations and charts ├── README.md # Project overview and instructions └── requirements.txt # Required Python libraries
-
 ## 🤝 Acknowledgements
 
 This project was done under the mentorship of **Academor** as part of an 8-week online internship, where I deepened my understanding of the practical applications of machine learning.
